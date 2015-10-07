@@ -82,7 +82,7 @@ nav li{
   background-size: 100%;
   background-repeat: no-repeat;
   border: #666;
-  background-image: url(/img/saturn.v1.jpg);
+  background-image: url("https://github.com/RajeshAlgonquin/Saturn-HTML/blob/gh-pages/img/saturn.v1.jpg?raw=true");
   max-height: 400px;
   width: 100%;
 }
