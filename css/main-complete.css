@@ -63,6 +63,7 @@ nav a:hover, nav a:active{
 }
 
 nav ul{
+  text-align: center;
   border-top: 5px solid grey;
   border-bottom: 10px solid grey;
 }
@@ -83,7 +84,7 @@ nav li{
   background-repeat: no-repeat;
   border: #666;
   background-image: url("https://github.com/RajeshAlgonquin/Saturn-HTML/blob/gh-pages/img/saturn.v1.jpg?raw=true");
-  max-height: 400px;
+  height: 500px;
   width: 100%;
 }
 
