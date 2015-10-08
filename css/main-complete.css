@@ -74,6 +74,10 @@ nav li{
   display: inline-block;
 }
 
+nav li:first-of-type{
+  padding-left: 0px;
+}
+
 #wrapper{
   background-color: #444;
   margin: 0 100px;
