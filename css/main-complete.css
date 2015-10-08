@@ -63,12 +63,12 @@ nav a:hover, nav a:active{
 }
 
 nav ul{
+  text-align: center;
   border-top: 5px solid grey;
   border-bottom: 10px solid grey;
 }
 
 nav li{
-  text-align: center;
   padding-left: 50px;
   line-height: 2rem;
   display: inline-block;
